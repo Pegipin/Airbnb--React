@@ -1,0 +1,2 @@
+(this.webpackJsonpnew=this.webpackJsonpnew||[]).push([[0],{10:function(n,e,t){"use strict";t.r(e);t(1);var c=t(3),r=t.n(c),s=t(0);var o=function(){return Object(s.jsx)("nav",{children:Object(s.jsx)("img",{src:"../images/airbnb-logo.png",alt:"logo",className:"nav--logo"})})};t(9);var a=function(){return Object(s.jsx)("div",{children:Object(s.jsx)(o,{})})};r.a.render(Object(s.jsx)(a,{}),document.getElementById("root"))},9:function(n,e,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.11ded7d4.chunk.js.map
